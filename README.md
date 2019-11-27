@@ -1,7 +1,7 @@
 # belajar_flutter
 
 A new Flutter project.
-![Layout app result](flutter_basic_layout_luthfi/hasil_layout.jpeg)
+![Layout app result](hasil_layout.jpeg)
 
 ## Getting Started
 
